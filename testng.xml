@@ -1,0 +1,7 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RegressionPack">
+    <suite-files>
+        <suite-file path="src/test/resources/Suites/SuiteA.xml"></suite-file>
+        <suite-file path="src/test/resources/Suites/SuiteB.xml"></suite-file>
+    </suite-files>
+</suite>

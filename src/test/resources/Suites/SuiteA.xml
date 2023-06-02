@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteA">
+    <test name="SuiteATests">
+        <classes>
+            <class name="com.hybrid.framework.SuiteA.BasicTest"></class>
+            <class name="com.hybrid.framework.SuiteA.AnotherBasicTest"></class>
+        </classes>
+    </test>
+</suite>
